@@ -1,4 +1,4 @@
-# Logistic Regression – Classification
+# Logistic Regression - Classification
 
 ## 📌 Project Overview
 
